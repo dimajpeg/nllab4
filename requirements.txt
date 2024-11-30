@@ -1,0 +1,4 @@
+
+scikit-fuzzy==0.4.2
+matplotlib==3.8.0
+   # Для графічного інтерфейсу на PyQt (можна замінити на tkinter або pygame)
